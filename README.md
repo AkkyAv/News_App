@@ -4,8 +4,11 @@ categories available to filter the choice according to his taste. This app uses 
 API is received from NewsApi.org.
 
 # Screenshots
-![image](https://github.com/AkkyAv/News_App/assets/101004653/45c204e6-18c9-4d9b-a6f5-491ca2dfd420) 
-![image](https://github.com/AkkyAv/News_App/assets/101004653/2acc35f7-33c9-4452-a830-8b723c739963)
+![image](https://github.com/AkkyAv/News_App/assets/101004653/23014aeb-824e-4e0e-bba9-34f3e092e093)
+![image](https://github.com/AkkyAv/News_App/assets/101004653/3b30c87f-7fbd-4a29-be79-8a142f344519)
+
+
+
 
 # Features
 -Realtime news from 8 different categories like Sports, Entertainment, Health, Technology, General, Science etc.  
