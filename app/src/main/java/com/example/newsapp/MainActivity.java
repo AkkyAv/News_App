@@ -18,7 +18,7 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 public class MainActivity extends AppCompatActivity implements CategoryRVAdapter.CategoryClickInterface {
-    //3ebeee34552e474ea1eff851e83cd4d5
+    
     private RecyclerView newsRV,categoryRV;
     private ProgressBar loadingPB;
     private ArrayList<Articles> articlesArrayList;
